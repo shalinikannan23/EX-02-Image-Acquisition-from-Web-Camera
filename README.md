@@ -5,8 +5,8 @@ To write a python program using OpenCV to capture the image from the web camera 
 ### Software Used
 - Anaconda - Python 3.7
 ### Algorithm
-- Step 1: Import the cv2 and numpy package.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Developed By: ROHIT JAIN D
-- Step 2: Read the Video frame using the cv2.VideoCapture(0)&emsp;&emsp;&emsp;&emsp;&emsp;Register Number: 212222230120
+- Step 1: Import the cv2 and numpy package.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Developed By: SHALINI K
+- Step 2: Read the Video frame using the cv2.VideoCapture(0)&emsp;&emsp;&emsp;&emsp;&emsp;Register Number: 212222240095
 - Step 3: Write the image using imwrite().
 - Step 4: Display the frame using the imshow().
 - Step 5: Divide the frame into halves and assign the smaller frame
